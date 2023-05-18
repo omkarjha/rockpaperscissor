@@ -38,4 +38,4 @@ However, please include the original author's name (Omkar Abhishek Jha) in any d
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 ## Contact
-If you have any questions or feedback regarding this project, you can reach me at jhaomkar396@example.com.
+If you have any questions or feedback regarding this project, you can reach me at jhaomkar396@gmail.com.
