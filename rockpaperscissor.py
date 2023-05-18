@@ -4,11 +4,12 @@ t = ["Rock","Paper","Scissor"]
 
 computer = t[randint(0,2)]
 
+
 player = False
 
 while player == False:
-    
-     player = input("Rock,Paper,Scissors?\n")
+     print("Enter your choice: \n")
+     player = input("1.Rock\n2.Paper\n3.Scissors\n")
      if player == computer:
           print("Tie!")
      elif player == "Rock":
